@@ -6,7 +6,7 @@ This project lets you control a 3D **hologram-like cube** using only your **hand
 
 ## 🚀 Demo
 
-https://user-images.githubusercontent.com/yourusername/demo.gif *(Add your screen recording or video demo here)*
+(https://www.linkedin.com/posts/dharma-prabhas-518b09320_python-opencv-computervision-activity-7295797574358245376-x2PJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFSg6QBNtEY68jOUXc53FQ4tXitIGPLI_U)
 
 ---
 
